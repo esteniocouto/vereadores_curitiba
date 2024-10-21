@@ -1,3 +1,4 @@
+
 # vereadores_curitiba
 Analise Eleições Vereadores Curitba 2024
 
@@ -18,3 +19,7 @@ Os grupos deverão obrigatoriamente aplicar os seguintes algoritmos de clusteriz
 Ferramentas:
 - Linguagem: Python
 - Bibliotecas: Utilizar bibliotecas como `pandas`, `numpy`, `scikit-learn`, e outras ferramentas relevantes para clusterização.
+___________________________________________________________________________________________________________________________________
+
+
+![Curitiba_1](https://github.com/user-attachments/assets/88a51778-d9bb-41de-b838-88be94f4ae35)
